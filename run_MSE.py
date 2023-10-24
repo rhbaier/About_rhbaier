@@ -10,7 +10,7 @@ import os
 
 sigma='3.0' #persistence thereshold
 
-fileloc = '../running/' #directory with NDnet files
+fileloc = '../NDnet_directory/' #directory with NDnet files
 file_extension = '.NDnet'
 files_in_directory = [f for f in os.listdir(fileloc) if f.endswith(file_extension) ]
 
