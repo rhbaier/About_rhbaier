@@ -19,6 +19,5 @@ N = len(files_in_directory)
 for i in range(N):
     archivo = files_in_directory[i]
     parameter = parameters[0]
-    # Comando a ejecutar en la terminal
     comand='mse '+fileloc+str(archivo) + str(parameter)  
     os.system(comand)
