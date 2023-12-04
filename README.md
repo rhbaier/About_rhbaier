@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Raúl Baier-Soto. I'm PhD student at USM-PUCV, in Chile.
+- 👋 Hi, I’m Raúl Baier-Soto. I'm PhD student at USM-PUCV, in Valparaíso, Chile.
 - 👀 I’m interested in the study of galaxy formation and evolution.
 - 🌱 I’m currently learning about detection of cosmic filaments using different methods.
 - 📫 How to reach me: rbaier@usm.cl
